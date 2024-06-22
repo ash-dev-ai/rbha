@@ -1,0 +1,11 @@
+{
+    "spread_name": "Career Path Spread",
+    "positions": [
+        {"name": "Current Position"},
+        {"name": "Skills and Strengths"},
+        {"name": "Challenges"},
+        {"name": "Opportunities"},
+        {"name": "Advice"},
+        {"name": "Future Direction"}
+    ]
+}

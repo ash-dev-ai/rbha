@@ -1,0 +1,10 @@
+{
+    "spread_name": "Decision Making Spread",
+    "positions": [
+        {"name": "Option 1"},
+        {"name": "Option 2"},
+        {"name": "Advantages of Option 1"},
+        {"name": "Advantages of Option 2"},
+        {"name": "Advice"}
+    ]
+}

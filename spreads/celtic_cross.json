@@ -1,0 +1,15 @@
+{
+    "spread_name": "Celtic Cross",
+    "positions": [
+        {"name": "Present"},
+        {"name": "Challenge"},
+        {"name": "Past"},
+        {"name": "Future"},
+        {"name": "Above"},
+        {"name": "Below"},
+        {"name": "Advice"},
+        {"name": "External Influences"},
+        {"name": "Hopes and Fears"},
+        {"name": "Outcome"}
+    ]
+}

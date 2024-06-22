@@ -1,0 +1,11 @@
+{
+    "spread_name": "Relationship Spread",
+    "positions": [
+        {"name": "Partner 1"},
+        {"name": "Partner 2"},
+        {"name": "Challenges"},
+        {"name": "Strengths"},
+        {"name": "Advice"},
+        {"name": "Potential Outcome"}
+    ]
+}

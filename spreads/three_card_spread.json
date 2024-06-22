@@ -1,0 +1,9 @@
+{
+    "spread_name": "Three Card Spread",
+    "positions": [
+        {"name": "Past"},
+        {"name": "Present"},
+        {"name": "Future"}
+    ]
+}
+
