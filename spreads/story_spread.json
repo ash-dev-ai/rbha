@@ -1,0 +1,16 @@
+{
+    "spread_name": "Story Spread",
+    "positions": [
+        {"name": "The Character"},
+        {"name": "The Complication"},
+        {"name": "The Outcome"},
+        {"name": "The Unknown"},
+        {"name": "The Revelation"},
+        {"name": "Subplot 1: The Barrier"},
+        {"name": "Subplot 1: The Opportunity"},
+        {"name": "Subplot 1: The Result"},
+        {"name": "Subplot 2: The Barrier"},
+        {"name": "Subplot 2: The Opportunity"},
+        {"name": "Subplot 2: The Result"}
+    ]
+}

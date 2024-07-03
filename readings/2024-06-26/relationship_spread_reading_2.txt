@@ -1,0 +1,98 @@
+Reading for Spread: relationship_spread
+========================================
+Partner 1:
+  Card Name: Eight of Swords
+  Orientation: Upright
+  Meaning: Feeling trapped, restricted, and limited by circumstances.
+  Keywords: Restriction, limitation, entrapment
+  Symbolism: Swords (restriction), bound figure (entrapment), blindfold (unawareness)
+  Affirmation: "I recognize my limitations and take steps to free myself and regain control."
+  Mythological Connection: Linked to the story of Persephone, who was trapped in the underworld and later freed.
+  Numerology: The number 8 signifies power, restriction, and the challenges of overcoming limitations.
+  Chakra Association: Solar Plexus Chakra
+  Card Image Description: A blindfolded and bound figure surrounded by eight swords, symbolizing restriction and entrapment.
+  Element: Air
+  Astrological Association: Jupiter in Gemini
+  Traditional Interpretation: Representing the feeling of being trapped and the need to find a way to break free.
+  Modern Interpretation: Emphasizing the importance of recognizing self-imposed limitations and taking steps to overcome them.
+  Rider-Waite Description: Depicts a blindfolded and bound figure surrounded by eight swords, symbolizing restriction and entrapment.
+  Alternative Deck Descriptions: In some decks, the Eight of Swords is shown as a figure or scene representing the feeling of being trapped and the need for liberation.
+----------------------------------------
+Partner 2:
+  Card Name: Nine of Swords
+  Orientation: Reversed
+  Meaning: Overcoming fear, finding hope, and letting go of anxiety.
+  Keywords: Anxiety, worry, nightmares
+  Symbolism: Swords (worry), figure in bed (nightmares), hands on face (anguish)
+  Affirmation: "I confront my fears and anxieties, finding hope and peace within."
+  Mythological Connection: Associated with the myth of Prometheus, who suffered nightly torment for his actions.
+  Numerology: The number 9 signifies completion, intensity, and the challenges of mental anguish.
+  Chakra Association: Third Eye Chakra
+  Card Image Description: A figure sitting up in bed, hands on face, with nine swords hanging on the wall behind them, symbolizing anxiety and worry.
+  Element: Air
+  Astrological Association: Mars in Gemini
+----------------------------------------
+Challenges:
+  Card Name: The World
+  Orientation: Upright
+  Meaning: Completion, wholeness, and a sense of fulfillment.
+  Keywords: Completion, integration, accomplishment
+  Symbolism: Wreath (victory), four figures (elements), dancer (integration)
+  Affirmation: "I am complete and integrated, celebrating my achievements."
+  Mythological Connection: Associated with the Ouroboros, symbolizing the eternal cycle of life.
+  Numerology: The number 21 signifies completion, fulfillment, and the full circle of experience.
+  Chakra Association: Root Chakra
+  Card Image Description: A dancing woman inside a wreath, with four figures in the corners representing the elements, symbolizing completeness and achievement.
+  Element: Earth
+  Astrological Association: Saturn
+  Traditional Interpretation: Representing the culmination of a journey and the attainment of goals.
+  Modern Interpretation: Emphasizing the celebration of accomplishments and the feeling of completeness.
+  Rider-Waite Description: Depicts a naked woman dancing inside a wreath, surrounded by four figures representing the elements.
+  Alternative Deck Descriptions: Some decks show the World as a figure or scene representing completeness and unity.
+----------------------------------------
+Strengths:
+  Card Name: Eight of Cups
+  Orientation: Reversed
+  Meaning: Stagnation, fear of change, and reluctance to leave.
+  Keywords: Abandonment, withdrawal, seeking
+  Symbolism: Eight cups (abandonment), mountain (journey), moon (intuition)
+  Affirmation: "I seek deeper meaning and embrace the journey of leaving behind what no longer serves me."
+  Mythological Connection: Associated with the journey of the hero who must leave their home to seek their true path.
+  Numerology: The number 8 signifies movement, change, and the pursuit of deeper truths.
+  Chakra Association: Third Eye Chakra
+  Card Image Description: A figure walking away from a stack of eight cups, heading towards a mountain under a moonlit sky, symbolizing abandonment and seeking.
+  Element: Water
+  Astrological Association: Saturn in Pisces
+----------------------------------------
+Advice:
+  Card Name: The Hanged Man
+  Orientation: Reversed
+  Meaning: Resistance, stalling, and indecision.
+  Keywords: Sacrifice, letting go, new perspective
+  Symbolism: Halo (enlightenment), inverted figure (new perspective), rope (sacrifice)
+  Affirmation: "I embrace new perspectives and let go of the old."
+  Mythological Connection: Associated with Odin, who hung from Yggdrasil for wisdom.
+  Numerology: The number 12 signifies completion, cycles, and the blending of opposites.
+  Chakra Association: Crown Chakra
+  Card Image Description: A man hanging upside down from a tree, with a glowing halo around his head.
+  Element: Water
+  Astrological Association: Neptune
+----------------------------------------
+Potential Outcome:
+  Card Name: Seven of Pentacles
+  Orientation: Upright
+  Meaning: Patience, long-term planning, and assessing progress towards rewards.
+  Keywords: Patience, assessment, reward
+  Symbolism: Seven pentacles (growth), gardener (effort), plants (reward)
+  Affirmation: "I patiently assess my progress and trust in the rewards of my efforts."
+  Mythological Connection: Linked to the story of the Ant and the Grasshopper, symbolizing the rewards of hard work and patience.
+  Numerology: The number 7 signifies reflection, assessment, and the pursuit of long-term goals.
+  Chakra Association: Root Chakra
+  Card Image Description: A figure leaning on a hoe, looking at a bush of growing pentacles, symbolizing patience and the assessment of progress.
+  Element: Earth
+  Astrological Association: Saturn in Taurus
+  Traditional Interpretation: Representing the need for patience and the assessment of long-term efforts and their rewards.
+  Modern Interpretation: Emphasizing the importance of evaluating progress and trusting in the value of long-term planning.
+  Rider-Waite Description: Depicts a figure leaning on a hoe, looking at a bush of growing pentacles, symbolizing assessment and patience.
+  Alternative Deck Descriptions: In some decks, the Seven of Pentacles is shown as a scene of growth and the assessment of effort and reward.
+----------------------------------------

@@ -1,0 +1,98 @@
+Reading for Spread: relationship_spread
+========================================
+Partner 1:
+  Card Name: The World
+  Orientation: Reversed
+  Meaning: Lack of closure, incompletion, and feeling unfulfilled.
+  Keywords: Completion, integration, accomplishment
+  Symbolism: Wreath (victory), four figures (elements), dancer (integration)
+  Affirmation: "I am complete and integrated, celebrating my achievements."
+  Mythological Connection: Associated with the Ouroboros, symbolizing the eternal cycle of life.
+  Numerology: The number 21 signifies completion, fulfillment, and the full circle of experience.
+  Chakra Association: Root Chakra
+  Card Image Description: A dancing woman inside a wreath, with four figures in the corners representing the elements, symbolizing completeness and achievement.
+  Element: Earth
+  Astrological Association: Saturn
+----------------------------------------
+Partner 2:
+  Card Name: Knight of Pentacles
+  Orientation: Reversed
+  Meaning: Laziness, stagnation, and a lack of progress.
+  Keywords: Diligence, reliability, routine
+  Symbolism: Knight (action), horse (steadiness), pentacle (material focus)
+  Affirmation: "I approach my goals with diligence and reliability, embracing the value of routine."
+  Mythological Connection: Associated with the steady and reliable labor of figures like Hercules in his tasks.
+  Numerology: The Knight signifies action, steadiness, and the practical pursuit of material goals.
+  Chakra Association: Root Chakra
+  Card Image Description: A knight on a steady horse, holding a pentacle, moving forward with diligence and focus, symbolizing reliability and routine.
+  Element: Earth
+  Astrological Association: Air of Earth
+----------------------------------------
+Challenges:
+  Card Name: King of Wands
+  Orientation: Reversed
+  Meaning: Impulsiveness, overbearing nature, and ruthlessness.
+  Keywords: Leadership, vision, charisma
+  Symbolism: Throne (authority), salamander (transformation), crown (leadership)
+  Affirmation: "I lead with vision and charisma, embracing my role as a leader."
+  Mythological Connection: Associated with powerful leaders like King Arthur.
+  Numerology: The King signifies mastery, leadership, and the culmination of the suit's qualities.
+  Chakra Association: Solar Plexus Chakra
+  Card Image Description: A king seated on a throne, holding a wand, with a salamander at his feet, symbolizing leadership and vision.
+  Element: Fire
+  Astrological Association: Fire of Fire
+----------------------------------------
+Strengths:
+  Card Name: Wheel of Fortune
+  Orientation: Upright
+  Meaning: Good luck, karma, and the cycle of life.
+  Keywords: Change, cycles, destiny
+  Symbolism: Wheel (cycles), sphinx (wisdom), snake (transformation)
+  Affirmation: "I embrace the cycles of change and growth."
+  Mythological Connection: Associated with the Greek Moirai, or Fates.
+  Numerology: The number 10 signifies completion, wholeness, and the beginning of a new cycle.
+  Chakra Association: Root Chakra
+  Card Image Description: A large wheel adorned with symbols and mystical creatures, representing the cycles of fate.
+  Element: Fire
+  Astrological Association: Jupiter
+  Traditional Interpretation: Representing the ebb and flow of life and fate.
+  Modern Interpretation: Emphasizing change and the acceptance of life's fluctuations.
+  Rider-Waite Description: Depicts a large wheel with various mystical symbols, representing the cycles of fate.
+  Alternative Deck Descriptions: Some decks show the Wheel of Fortune with zodiac signs and mystical symbols.
+----------------------------------------
+Advice:
+  Card Name: The Hanged Man
+  Orientation: Upright
+  Meaning: Surrender, contemplation, and gaining new insights.
+  Keywords: Sacrifice, letting go, new perspective
+  Symbolism: Halo (enlightenment), inverted figure (new perspective), rope (sacrifice)
+  Affirmation: "I embrace new perspectives and let go of the old."
+  Mythological Connection: Associated with Odin, who hung from Yggdrasil for wisdom.
+  Numerology: The number 12 signifies completion, cycles, and the blending of opposites.
+  Chakra Association: Crown Chakra
+  Card Image Description: A man hanging upside down from a tree, with a glowing halo around his head.
+  Element: Water
+  Astrological Association: Neptune
+  Traditional Interpretation: Representing self-sacrifice and the wisdom gained through surrender.
+  Modern Interpretation: Emphasizing the value of viewing situations from different angles.
+  Rider-Waite Description: Depicts a man hanging upside down from a tree, with a serene expression and a glowing halo.
+  Alternative Deck Descriptions: Some decks show the Hanged Man as a figure in contemplation, often inverted.
+----------------------------------------
+Potential Outcome:
+  Card Name: Four of Wands
+  Orientation: Upright
+  Meaning: Celebration, harmony, and a sense of community.
+  Keywords: Celebration, harmony, home
+  Symbolism: Four wands (stability), garland (celebration), castle (home)
+  Affirmation: "I celebrate my achievements and the harmony in my life."
+  Mythological Connection: Linked to the Greek festivals and celebrations in honor of the gods.
+  Numerology: The number 4 signifies stability, foundation, and structure.
+  Chakra Association: Heart Chakra
+  Card Image Description: Two figures holding flowers, standing under a garland-draped structure of four wands, symbolizing celebration and harmony.
+  Element: Fire
+  Astrological Association: Venus in Aries
+  Traditional Interpretation: Representing joyous occasions and the celebration of achievements.
+  Modern Interpretation: Emphasizing the importance of community and harmonious relationships.
+  Rider-Waite Description: Depicts two figures holding flowers, standing under a garland-draped structure of four wands.
+  Alternative Deck Descriptions: In some decks, the Four of Wands is shown with scenes of celebration and community.
+----------------------------------------
