@@ -1,0 +1,54 @@
+{
+    "runes": [
+        {
+            "rune_name": "Sowilo",
+            "symbol": "ᛋ",
+            "meaning": "Success, vitality, good fortune",
+            "keywords": "Success, vitality, good fortune",
+            "mythological_association": "Sun goddess Sunna",
+            "astrological_association": "Leo",
+            "element": "Fire",
+            "affirmation": "I am filled with vitality and success."
+        },
+        {
+            "rune_name": "Tiwaz",
+            "symbol": "ᛏ",
+            "meaning": "Honor, justice, leadership",
+            "keywords": "Honor, justice, leadership",
+            "mythological_association": "Tyr",
+            "astrological_association": "Aries",
+            "element": "Air",
+            "affirmation": "I lead with honor and integrity."
+        },
+        {
+            "rune_name": "Berkano",
+            "symbol": "ᛒ",
+            "meaning": "Growth, fertility, renewal",
+            "keywords": "Growth, fertility, renewal",
+            "mythological_association": "Earth goddess Nerthus",
+            "astrological_association": "Cancer",
+            "element": "Earth",
+            "affirmation": "I embrace growth and renewal."
+        },
+        {
+            "rune_name": "Ehwaz",
+            "symbol": "ᛖ",
+            "meaning": "Movement, progress, harmony",
+            "keywords": "Movement, progress, harmony",
+            "mythological_association": "Sleipnir, Odin's horse",
+            "astrological_association": "Gemini",
+            "element": "Air",
+            "affirmation": "I move forward with harmony and progress."
+        },
+        {
+            "rune_name": "Mannaz",
+            "symbol": "ᛗ",
+            "meaning": "Humanity, self, interdependence",
+            "keywords": "Humanity, self, interdependence",
+            "mythological_association": "Heimdall",
+            "astrological_association": "Aquarius",
+            "element": "Water",
+            "affirmation": "I value interdependence and humanity."
+        }
+    ]
+}

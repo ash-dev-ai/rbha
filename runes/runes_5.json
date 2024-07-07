@@ -1,0 +1,54 @@
+{
+    "runes": [
+        {
+            "rune_name": "Laguz",
+            "symbol": "ᛚ",
+            "meaning": "Water, intuition, flow",
+            "keywords": "Water, intuition, flow",
+            "mythological_association": "Njord",
+            "astrological_association": "Cancer",
+            "element": "Water",
+            "affirmation": "I trust my intuition and go with the flow."
+        },
+        {
+            "rune_name": "Ingwaz",
+            "symbol": "ᛜ",
+            "meaning": "Fertility, growth, new beginnings",
+            "keywords": "Fertility, growth, new beginnings",
+            "mythological_association": "Freyr",
+            "astrological_association": "Taurus",
+            "element": "Earth",
+            "affirmation": "I welcome new beginnings and growth."
+        },
+        {
+            "rune_name": "Dagaz",
+            "symbol": "ᛞ",
+            "meaning": "Dawn, breakthrough, awakening",
+            "keywords": "Dawn, breakthrough, awakening",
+            "mythological_association": "Baldur",
+            "astrological_association": "Leo",
+            "element": "Fire",
+            "affirmation": "I embrace new dawns and awakenings."
+        },
+        {
+            "rune_name": "Othala",
+            "symbol": "ᛟ",
+            "meaning": "Heritage, home, inheritance",
+            "keywords": "Heritage, home, inheritance",
+            "mythological_association": "Ancestral gods",
+            "astrological_association": "Capricorn",
+            "element": "Earth",
+            "affirmation": "I honor my heritage and home."
+        },
+        {
+            "rune_name": "Wyrd",
+            "symbol": "ᛝ",
+            "meaning": "Fate, unknown, destiny",
+            "keywords": "Fate, unknown, destiny",
+            "mythological_association": "Norns",
+            "astrological_association": "None",
+            "element": "None",
+            "affirmation": "I trust in my destiny and the unknown."
+        }
+    ]
+}

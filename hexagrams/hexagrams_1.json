@@ -1,0 +1,114 @@
+{
+    "hexagrams": [
+        {
+            "hexagram_number": 1,
+            "hexagram_name": "The Creative",
+            "binary_sequence": "111111",
+            "judgment": "The Creative works sublime success, furthering through perseverance.",
+            "image": "The movement of heaven is full of power. Thus the superior man makes himself strong and untiring.",
+            "lines": {
+                "line_1": "Hidden dragon. Do not act.",
+                "line_2": "Dragon appearing in the field. It furthers one to see the great man.",
+                "line_3": "All day long the superior man is creatively active.",
+                "line_4": "Wavering flight over the depths.",
+                "line_5": "Flying dragon in the heavens.",
+                "line_6": "Arrogant dragon will have cause to repent."
+            },
+            "keywords": "Creativity, strength, power",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Heaven",
+            "astrological_association": "Aries",
+            "mythological_association": "Dragon",
+            "affirmation": "I am strong and creative."
+        },
+        {
+            "hexagram_number": 2,
+            "hexagram_name": "The Receptive",
+            "binary_sequence": "000000",
+            "judgment": "The Receptive brings about sublime success, furthering through the perseverance of a mare.",
+            "image": "The earth's condition is receptive devotion. Thus the superior man who has breadth of character carries the outer world.",
+            "lines": {
+                "line_1": "When there is hoarfrost underfoot, solid ice is not far off.",
+                "line_2": "Straight, square, and great. Without purpose, yet nothing remains unfurthered.",
+                "line_3": "Hidden lines. One is able to remain persevering.",
+                "line_4": "A tied-up sack. No blame, no praise.",
+                "line_5": "A yellow lower garment brings supreme good fortune.",
+                "line_6": "Dragons fight in the meadow. Their blood is black and yellow."
+            },
+            "keywords": "Receptivity, patience, nurturing",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Earth",
+            "astrological_association": "Taurus",
+            "mythological_association": "Earth",
+            "affirmation": "I am patient and nurturing."
+        },
+        {
+            "hexagram_number": 3,
+            "hexagram_name": "Difficulty at the Beginning",
+            "binary_sequence": "010001",
+            "judgment": "Difficulty at the beginning works supreme success, furthering through perseverance. Nothing should be undertaken.",
+            "image": "Clouds and thunder: the image of Difficulty at the Beginning. Thus the superior man brings order out of confusion.",
+            "lines": {
+                "line_1": "Hesitation and hindrance. It furthers one to remain persevering.",
+                "line_2": "Difficulties pile up. Horse and wagon part. He is not a robber; he will woo at the right time.",
+                "line_3": "Who overcomes by force must meet with repentance. Misfortune.",
+                "line_4": "Perseverance brings good fortune. Remorse disappears.",
+                "line_5": "A tree is born from a single seedling. Undertakings bring reward.",
+                "line_6": "Horse and wagon part. Misfortune."
+            },
+            "keywords": "Difficulty, perseverance, patience",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Water",
+            "astrological_association": "Gemini",
+            "mythological_association": "Thunder",
+            "affirmation": "I persevere through difficulties."
+        },
+        {
+            "hexagram_number": 4,
+            "hexagram_name": "Youthful Folly",
+            "binary_sequence": "001010",
+            "judgment": "Youthful Folly has success. It is not I who seek the young fool; the young fool seeks me. At the first oracle, I inform him. If he asks two or three times, it is importunity. If he importunes, I give him no information.",
+            "image": "A spring wells up at the foot of the mountain: the image of Youth. Thus the superior man fosters his character by thoroughness in all that he does.",
+            "lines": {
+                "line_1": "To make a fool develop it furthers one to apply discipline. The fetters should be removed.",
+                "line_2": "To bear with fools in kindliness brings good fortune. To know how to take women brings good fortune. The son is capable of taking charge of the household.",
+                "line_3": "Take not a maiden who, when she sees a man of bronze, loses possession of herself. Nothing furthers.",
+                "line_4": "Entangled folly brings humiliation.",
+                "line_5": "Childlike folly brings good fortune.",
+                "line_6": "In punishing folly, it does not further one to commit transgressions."
+            },
+            "keywords": "Folly, learning, growth",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Earth",
+            "astrological_association": "Cancer",
+            "mythological_association": "Spring",
+            "affirmation": "I grow and learn from folly."
+        },
+        {
+            "hexagram_number": 5,
+            "hexagram_name": "Waiting",
+            "binary_sequence": "001100",
+            "judgment": "Waiting. If you are sincere, you have light and success. Perseverance brings good fortune. It furthers one to cross the great water.",
+            "image": "Clouds rise up to heaven: the image of Waiting. Thus the superior man eats and drinks, is joyous and of good cheer.",
+            "lines": {
+                "line_1": "Waiting in the meadow. It furthers one to abide in what endures. No blame.",
+                "line_2": "Waiting on the sand. There is some gossip. The end brings good fortune.",
+                "line_3": "Waiting in the mud brings about the arrival of the enemy.",
+                "line_4": "Waiting in blood. Get out of the pit.",
+                "line_5": "Waiting with food and drink. Perseverance brings good fortune.",
+                "line_6": "One falls into the pit. Three uninvited guests arrive. Honor them, and in the end, there will be good fortune."
+            },
+            "keywords": "Waiting, patience, perseverance",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Water",
+            "astrological_association": "Leo",
+            "mythological_association": "Clouds",
+            "affirmation": "I wait patiently and persevere."
+        }
+    ]
+}

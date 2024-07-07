@@ -1,0 +1,114 @@
+{
+    "hexagrams": [
+        {
+            "hexagram_number": 56,
+            "hexagram_name": "The Wanderer",
+            "binary_sequence": "101100",
+            "judgment": "The Wanderer. Success through smallness. Perseverance brings good fortune to the wanderer.",
+            "image": "Fire on the mountain: the image of The Wanderer. Thus the superior man is clear-minded and cautious in imposing penalties and protracting trials.",
+            "lines": {
+                "line_1": "If the wanderer busies himself with trivial things, he draws down misfortune upon himself.",
+                "line_2": "The wanderer comes to an inn. He has his property with him. He wins the steadfastness of a young servant.",
+                "line_3": "The wanderer's inn burns down. He loses the steadfastness of his young servant. Danger.",
+                "line_4": "The wanderer rests in a shelter. He obtains his property and an axe. My heart is not glad.",
+                "line_5": "He shoots a pheasant. It drops with the first arrow. In the end this brings both praise and office.",
+                "line_6": "The bird's nest burns up. The wanderer laughs at first, then must needs lament and weep. Through carelessness he loses his cow. Misfortune."
+            },
+            "keywords": "Wanderer, success, caution",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Fire and Mountain",
+            "astrological_association": "Sagittarius",
+            "mythological_association": "Wanderer",
+            "affirmation": "I navigate life with the caution and clarity of the wanderer."
+        },
+        {
+            "hexagram_number": 57,
+            "hexagram_name": "The Gentle (The Penetrating, Wind)",
+            "binary_sequence": "110110",
+            "judgment": "The Gentle. Success through what is small. It furthers one to have somewhere to go. It furthers one to see the great man.",
+            "image": "Winds following one upon the other: the image of The Gentle. Thus the superior man spreads his commands abroad and carries out his undertakings.",
+            "lines": {
+                "line_1": "In advancing and in retreating, the perseverance of a warrior furthers.",
+                "line_2": "Penetration under the bed. Priests and magicians are used in great number. Good fortune. No blame.",
+                "line_3": "Repeated penetration. Humiliation.",
+                "line_4": "Remorse vanishes. During the hunt three kinds of game are caught.",
+                "line_5": "Perseverance brings good fortune. Remorse vanishes. Nothing that does not further. No beginning, but an end. Before the change, three days. After the change, three days. Good fortune.",
+                "line_6": "Penetration under the bed. He loses his property and his ax. Perseverance brings misfortune."
+            },
+            "keywords": "Gentle, success, penetration",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Wind",
+            "astrological_association": "Libra",
+            "mythological_association": "Wind",
+            "affirmation": "I achieve success through gentle penetration and perseverance."
+        },
+        {
+            "hexagram_number": 58,
+            "hexagram_name": "The Joyous (Lake)",
+            "binary_sequence": "011011",
+            "judgment": "The Joyous. Success. Perseverance is favorable.",
+            "image": "Lakes resting on one another: the image of The Joyous. Thus the superior man joins with his friends for discussion and practice.",
+            "lines": {
+                "line_1": "Contented joyousness. Good fortune.",
+                "line_2": "Sincere joyousness. Good fortune. Remorse disappears.",
+                "line_3": "Coming joyousness. Misfortune.",
+                "line_4": "Joyousness that is weighed is not at peace. After ridding oneself of mistakes one makes a rejoicing.",
+                "line_5": "Sincerity towards disintegrating influences is dangerous.",
+                "line_6": "Seductive joyousness."
+            },
+            "keywords": "Joyous, success, sincerity",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Lake",
+            "astrological_association": "Gemini",
+            "mythological_association": "Joy",
+            "affirmation": "I embrace joyousness with sincerity and perseverance."
+        },
+        {
+            "hexagram_number": 59,
+            "hexagram_name": "Dispersion (Dissolution)",
+            "binary_sequence": "101110",
+            "judgment": "Dispersion. Success. The king approaches his temple. It furthers one to cross the great water. Perseverance furthers.",
+            "image": "The wind drives over the water: the image of Dispersion. Thus the kings of old sacrificed to the Lord and built temples.",
+            "lines": {
+                "line_1": "He brings help with the strength of a horse. Good fortune.",
+                "line_2": "At the dissolution he hurries to that which supports him. Remorse disappears.",
+                "line_3": "He dissolves his self. No remorse.",
+                "line_4": "He dissolves his bond with his group. Supreme good fortune. Dispersion leads in turn to accumulation. This is something that ordinary men do not think of.",
+                "line_5": "His loud cries are as dissolving as sweat. Dissolution. A king abides without blame.",
+                "line_6": "He dissolves his blood. Departing, keeping at a distance, going out, is without blame."
+            },
+            "keywords": "Dispersion, success, perseverance",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Wind and Water",
+            "astrological_association": "Aquarius",
+            "mythological_association": "Dissolution",
+            "affirmation": "I embrace dispersion with perseverance and success."
+        },
+        {
+            "hexagram_number": 60,
+            "hexagram_name": "Limitation",
+            "binary_sequence": "010101",
+            "judgment": "Limitation. Success. Galling limitation must not be persevered in.",
+            "image": "Water over lake: the image of Limitation. Thus the superior man creates number and measure, and examines the nature of virtue and correct conduct.",
+            "lines": {
+                "line_1": "Not going out of the door and the courtyard is without blame.",
+                "line_2": "Not going out of the gate and the courtyard brings misfortune.",
+                "line_3": "He who knows no limitation will have cause to lament. No blame.",
+                "line_4": "Contented limitation. Success.",
+                "line_5": "Sweet limitation brings good fortune. Going brings esteem.",
+                "line_6": "Galling limitation. Perseverance brings misfortune. Remorse disappears."
+            },
+            "keywords": "Limitation, success, measure",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Water and Lake",
+            "astrological_association": "Cancer",
+            "mythological_association": "Measure",
+            "affirmation": "I understand limitation with measure and success."
+        }
+    ]
+}

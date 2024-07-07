@@ -1,0 +1,54 @@
+{
+    "runes": [
+        {
+            "rune_name": "Fehu",
+            "symbol": "ᚠ",
+            "meaning": "Wealth, abundance, success",
+            "keywords": "Wealth, abundance, success",
+            "mythological_association": "Freyr and Freyja",
+            "astrological_association": "Aries",
+            "element": "Fire",
+            "affirmation": "I attract wealth and abundance."
+        },
+        {
+            "rune_name": "Uruz",
+            "symbol": "ᚢ",
+            "meaning": "Strength, endurance, health",
+            "keywords": "Strength, endurance, health",
+            "mythological_association": "Aurochs",
+            "astrological_association": "Taurus",
+            "element": "Earth",
+            "affirmation": "I am strong and healthy."
+        },
+        {
+            "rune_name": "Thurisaz",
+            "symbol": "ᚦ",
+            "meaning": "Chaos, conflict, danger",
+            "keywords": "Chaos, conflict, danger",
+            "mythological_association": "Thor",
+            "astrological_association": "Scorpio",
+            "element": "Fire",
+            "affirmation": "I embrace challenges and grow stronger."
+        },
+        {
+            "rune_name": "Ansuz",
+            "symbol": "ᚨ",
+            "meaning": "Communication, wisdom, inspiration",
+            "keywords": "Communication, wisdom, inspiration",
+            "mythological_association": "Odin",
+            "astrological_association": "Gemini",
+            "element": "Air",
+            "affirmation": "I communicate clearly and wisely."
+        },
+        {
+            "rune_name": "Raidho",
+            "symbol": "ᚱ",
+            "meaning": "Journey, movement, progress",
+            "keywords": "Journey, movement, progress",
+            "mythological_association": "Journey of the gods",
+            "astrological_association": "Sagittarius",
+            "element": "Air",
+            "affirmation": "I move forward with purpose and confidence."
+        }
+    ]
+}

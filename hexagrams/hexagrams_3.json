@@ -1,0 +1,114 @@
+{
+    "hexagrams": [
+        {
+            "hexagram_number": 11,
+            "hexagram_name": "Peace",
+            "binary_sequence": "111000",
+            "judgment": "Peace. The small departs, the great approaches. Good fortune. Success.",
+            "image": "Heaven and earth unite: the image of Peace. Thus the ruler divides and completes the course of heaven and earth, and so aids the people.",
+            "lines": {
+                "line_1": "When ribbon grass is pulled up, the sod comes with it. Each according to his kind. Undertakings bring good fortune.",
+                "line_2": "Bearing with the uncultured in gentleness, crossing the river with resolution, not neglecting what is distant, not regarding one's companions: thus one may manage to walk in the middle.",
+                "line_3": "No plain not followed by a slope. No going not followed by a return. He who remains persevering in danger is without blame. Do not complain about this truth; enjoy the good fortune you still possess.",
+                "line_4": "He flutters down, not boasting of his wealth, together with his neighbor, guileless and sincere.",
+                "line_5": "The sovereign I gives his daughter in marriage. This brings blessing and supreme good fortune.",
+                "line_6": "The wall falls back into the moat. Use no army now. Make your commands known within your own town. Perseverance brings humiliation."
+            },
+            "keywords": "Peace, harmony, unity",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Heaven and Earth",
+            "astrological_association": "Pisces",
+            "mythological_association": "Harmony",
+            "affirmation": "I foster peace and unity."
+        },
+        {
+            "hexagram_number": 12,
+            "hexagram_name": "Standstill",
+            "binary_sequence": "000111",
+            "judgment": "Standstill. Evil people do not further the perseverance of the superior man. The great departs; the small approaches.",
+            "image": "Heaven and earth do not unite: the image of Standstill. Thus the superior man falls back upon his inner worth in order to escape the difficulties. He does not permit himself to be honored with revenue.",
+            "lines": {
+                "line_1": "When ribbon grass is pulled up, the sod comes with it. Each according to his kind. Perseverance brings good fortune and success.",
+                "line_2": "They bear and endure; this means good fortune for inferior people. The standstill serves to create success for the great man.",
+                "line_3": "They bear shame.",
+                "line_4": "He who acts at the command of the highest remains without blame. Those of like mind partake of the blessing.",
+                "line_5": "Standstill is giving way. Good fortune for the great man. 'What if it should fail, what if it should fail?' In this way he ties it to a cluster of mulberry shoots.",
+                "line_6": "The standstill comes to an end. First standstill, then good fortune."
+            },
+            "keywords": "Standstill, perseverance, inner worth",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Heaven and Earth",
+            "astrological_association": "Virgo",
+            "mythological_association": "Obstacle",
+            "affirmation": "I persevere through standstill."
+        },
+        {
+            "hexagram_number": 13,
+            "hexagram_name": "Fellowship with Men",
+            "binary_sequence": "111010",
+            "judgment": "Fellowship with Men in the open. Success. It furthers one to cross the great water. The perseverance of the superior man furthers.",
+            "image": "Heaven together with fire: the image of Fellowship with Men. Thus the superior man organizes the clans and makes distinctions between things.",
+            "lines": {
+                "line_1": "Fellowship with men at the gate. No blame.",
+                "line_2": "Fellowship with men in the clan. Humiliation.",
+                "line_3": "He hides weapons in the thicket; he climbs the high hill in front of it. For three years he does not rise up.",
+                "line_4": "He climbs up on his wall; he cannot attack. Good fortune.",
+                "line_5": "Men bound in fellowship first weep and lament, but afterward they laugh. After great struggles they succeed in meeting.",
+                "line_6": "Fellowship with men in the meadow. No remorse."
+            },
+            "keywords": "Fellowship, success, organization",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Heaven and Fire",
+            "astrological_association": "Leo",
+            "mythological_association": "Unity",
+            "affirmation": "I build fellowship and success."
+        },
+        {
+            "hexagram_number": 14,
+            "hexagram_name": "Possession in Great Measure",
+            "binary_sequence": "111101",
+            "judgment": "Possession in Great Measure. Supreme success.",
+            "image": "Fire in heaven above: the image of Possession in Great Measure. Thus the superior man curbs evil and furthers good, and thereby obeys the benevolent will of heaven.",
+            "lines": {
+                "line_1": "No relationship with what is harmful; there is no blame in this. If one remains conscious of difficulty, one remains without blame.",
+                "line_2": "A big wagon for loading. One may undertake something. No blame.",
+                "line_3": "A prince offers it to the Son of Heaven. A small man cannot do this.",
+                "line_4": "He makes a difference between himself and his neighbor. No blame.",
+                "line_5": "He whose truth is accessible, yet dignified, has good fortune.",
+                "line_6": "He is blessed by heaven. Good fortune. Nothing that does not further."
+            },
+            "keywords": "Possession, success, benevolence",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Heaven and Fire",
+            "astrological_association": "Aries",
+            "mythological_association": "Wealth",
+            "affirmation": "I possess great measure and success."
+        },
+        {
+            "hexagram_number": 15,
+            "hexagram_name": "Modesty",
+            "binary_sequence": "000100",
+            "judgment": "Modesty creates success. The superior man carries things through.",
+            "image": "Within the earth, a mountain: the image of Modesty. Thus the superior man reduces that which is too much, and augments that which is too little. He weighs things and makes them equal.",
+            "lines": {
+                "line_1": "Modesty that comes to expression. Perseverance brings good fortune.",
+                "line_2": "Modesty that comes to expression. Perseverance brings good fortune.",
+                "line_3": "A superior man of modesty and merit carries things through.",
+                "line_4": "Nothing that would not further modesty in movement.",
+                "line_5": "No boasting of wealth before one's neighbor. It is favorable to attack with force. Nothing that would not further.",
+                "line_6": "Modesty that comes to expression. It is favorable to set armies marching to chastise one's own city and one's country."
+            },
+            "keywords": "Modesty, success, perseverance",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Earth",
+            "astrological_association": "Taurus",
+            "mythological_association": "Humility",
+            "affirmation": "I embody modesty and success."
+        }
+    ]
+}

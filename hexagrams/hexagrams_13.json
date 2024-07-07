@@ -1,0 +1,92 @@
+{
+    "hexagrams": [
+        {
+            "hexagram_number": 61,
+            "hexagram_name": "Inner Truth",
+            "binary_sequence": "110110",
+            "judgment": "Inner Truth. Pigs and fishes. Good fortune. It furthers one to cross the great water. Perseverance furthers.",
+            "image": "Wind over lake: the image of Inner Truth. Thus the superior man discusses criminal cases in order to delay executions.",
+            "lines": {
+                "line_1": "Being prepared brings good fortune. If there are secret designs, it is disquieting.",
+                "line_2": "A crane calling in the shade. Its young answers it. I have a good goblet. I will share it with you.",
+                "line_3": "He finds a comrade. Now he beats the drum, now he stops. Now he sobs, now he sings.",
+                "line_4": "The moon nearly at the full. The team horse goes astray. No blame.",
+                "line_5": "He possesses truth, which links together. No blame.",
+                "line_6": "Cockcrow penetrating to heaven. Perseverance brings misfortune."
+            },
+            "keywords": "Inner Truth, perseverance, harmony",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Wind and Lake",
+            "astrological_association": "Libra",
+            "mythological_association": "Truth",
+            "affirmation": "I seek inner truth with perseverance and harmony."
+        },
+        {
+            "hexagram_number": 62,
+            "hexagram_name": "Preponderance of the Small",
+            "binary_sequence": "110101",
+            "judgment": "Preponderance of the Small. Success. Perseverance furthers. Small things may be done; great things should not be done. The flying bird brings the message: It is not well to strive upward, it is well to remain below. Great good fortune.",
+            "image": "Thunder on the mountain: the image of Preponderance of the Small. Thus in his conduct the superior man gives preponderance to reverence. In bereavement he gives preponderance to grief. In his expenditures he gives preponderance to thrift.",
+            "lines": {
+                "line_1": "The bird meets with misfortune through flying.",
+                "line_2": "She passes by her ancestor and meets her ancestress. He does not reach his prince and meets the official. No blame.",
+                "line_3": "If one is not extremely careful, somebody may come up from behind and strike him. Misfortune.",
+                "line_4": "No blame. He meets him without passing by. Going brings danger. One must be on guard. Do not act. Be constantly persevering.",
+                "line_5": "Dense clouds, no rain from our western territory. The prince shoots and hits him who is in the cave.",
+                "line_6": "He passes him by, not meeting him. The flying bird leaves him. Misfortune. This means bad luck and injury."
+            },
+            "keywords": "Small things, perseverance, caution",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Thunder and Mountain",
+            "astrological_association": "Virgo",
+            "mythological_association": "Small Matters",
+            "affirmation": "I find success in small things with perseverance and caution."
+        },
+        {
+            "hexagram_number": 63,
+            "hexagram_name": "After Completion",
+            "binary_sequence": "101010",
+            "judgment": "After Completion. Success in small matters. Perseverance furthers. At the beginning good fortune. At the end disorder.",
+            "image": "Water over fire: the image of the condition in After Completion. Thus the superior man takes thought of misfortune and arms himself against it in advance.",
+            "lines": {
+                "line_1": "He breaks his wheels. He gets his tail in the water. No blame.",
+                "line_2": "The woman loses the curtain of her carriage. Do not run after it; on the seventh day you will get it.",
+                "line_3": "The Illustrious Ancestor disciplines the Devil's Country. After three years he conquers it. Inferior people must not be employed.",
+                "line_4": "The finest clothes turn to rags. Be careful all day long.",
+                "line_5": "The neighbor in the east who slaughters an ox does not attain as much real happiness as the neighbor in the west with his small offering.",
+                "line_6": "He gets his head in the water. Danger."
+            },
+            "keywords": "Completion, success, foresight",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Water and Fire",
+            "astrological_association": "Pisces",
+            "mythological_association": "Completion",
+            "affirmation": "I achieve success with foresight and completion."
+        },
+        {
+            "hexagram_number": 64,
+            "hexagram_name": "Before Completion",
+            "binary_sequence": "010101",
+            "judgment": "Before Completion. Success. But if the little fox, after nearly completing the crossing, gets his tail in the water, there is nothing that would further.",
+            "image": "Fire over water: the image of the condition before transition. Thus the superior man is careful in the differentiation of things, so that each finds its place.",
+            "lines": {
+                "line_1": "He gets his tail in the water. Humiliating.",
+                "line_2": "He brakes his wheels. Perseverance brings good fortune.",
+                "line_3": "Before completion, attack brings misfortune. It furthers one to cross the great water.",
+                "line_4": "Perseverance brings good fortune. Remorse disappears. Shock, thus to discipline the Devil's Country. For three years, great realms are awarded.",
+                "line_5": "Perseverance brings good fortune. No remorse. The light of the superior man is true. Good fortune.",
+                "line_6": "There is drinking of wine in genuine confidence. No blame. But if one wets his head, it is truly a mistake."
+            },
+            "keywords": "Transition, caution, success",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Fire and Water",
+            "astrological_association": "Aquarius",
+            "mythological_association": "Transition",
+            "affirmation": "I achieve success through careful transition and foresight."
+        }
+    ]
+}

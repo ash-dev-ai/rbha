@@ -1,0 +1,114 @@
+{
+    "hexagrams": [
+        {
+            "hexagram_number": 31,
+            "hexagram_name": "Influence",
+            "binary_sequence": "011011",
+            "judgment": "Influence. Success. Perseverance furthers. To take a maiden to wife brings good fortune.",
+            "image": "A lake on the mountain: the image of Influence. Thus the superior man encourages people to approach him by his readiness to receive them.",
+            "lines": {
+                "line_1": "The influence shows itself in the big toe.",
+                "line_2": "The influence shows itself in the calves of the legs. Misfortune. Tarrying brings good fortune.",
+                "line_3": "The influence shows itself in the thighs. Holds to that which follows it. To continue is humiliating.",
+                "line_4": "Perseverance brings good fortune. Remorse disappears. If a man is agitated in mind, and his thoughts go hither and thither, only those friends on whom he fixes his conscious thoughts will follow.",
+                "line_5": "The influence shows itself in the back of the neck. No remorse.",
+                "line_6": "The influence shows itself in the jaws, cheeks, and tongue."
+            },
+            "keywords": "Influence, success, perseverance",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Lake and Mountain",
+            "astrological_association": "Libra",
+            "mythological_association": "Influence",
+            "affirmation": "I influence with success and perseverance."
+        },
+        {
+            "hexagram_number": 32,
+            "hexagram_name": "Duration",
+            "binary_sequence": "111001",
+            "judgment": "Duration. Success. No blame. Perseverance furthers. It furthers one to have somewhere to go.",
+            "image": "Thunder and wind: the image of Duration. Thus the superior man stands firm and does not change his direction.",
+            "lines": {
+                "line_1": "Seeking duration too hastily brings misfortune persistently. No blame.",
+                "line_2": "Remorse disappears.",
+                "line_3": "He who does not give duration to his character meets with disgrace. Persistent humiliation.",
+                "line_4": "No game in the field.",
+                "line_5": "Giving duration to one's character through perseverance. This is good fortune for a woman, misfortune for a man.",
+                "line_6": "Restlessness as an enduring condition brings misfortune."
+            },
+            "keywords": "Duration, perseverance, stability",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Thunder and Wind",
+            "astrological_association": "Taurus",
+            "mythological_association": "Stability",
+            "affirmation": "I achieve duration with perseverance and stability."
+        },
+        {
+            "hexagram_number": 33,
+            "hexagram_name": "Retreat",
+            "binary_sequence": "111010",
+            "judgment": "Retreat. Success. In what is small, perseverance furthers.",
+            "image": "Mountain under heaven: the image of Retreat. Thus the superior man keeps the inferior man at a distance, not angrily but with reserve.",
+            "lines": {
+                "line_1": "At the tail in retreat. This is dangerous. One must not wish to undertake anything.",
+                "line_2": "He holds him fast with yellow oxhide. No one can tear him loose.",
+                "line_3": "A halted retreat is both good fortune and good misfortune.",
+                "line_4": "Voluntary retreat brings good fortune to the superior man and downfall to the inferior man.",
+                "line_5": "Friendly retreat. Perseverance brings good fortune.",
+                "line_6": "Cheerful retreat. Everything serves to further."
+            },
+            "keywords": "Retreat, success, perseverance",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Mountain and Heaven",
+            "astrological_association": "Capricorn",
+            "mythological_association": "Retreat",
+            "affirmation": "I retreat with success and perseverance."
+        },
+        {
+            "hexagram_number": 34,
+            "hexagram_name": "The Power of the Great",
+            "binary_sequence": "111100",
+            "judgment": "The Power of the Great. Perseverance furthers.",
+            "image": "Thunder in heaven above: the image of The Power of the Great. Thus the superior man does not tread upon paths that do not accord with established order.",
+            "lines": {
+                "line_1": "Power in the toes. Continuing brings misfortune. This is certainly true.",
+                "line_2": "Perseverance brings good fortune.",
+                "line_3": "The inferior man works through power. The superior man does not act thus. To continue is dangerous. A goat butts against a hedge and gets its horns entangled.",
+                "line_4": "Perseverance brings good fortune. Remorse disappears. The hedge opens; there is no entanglement. Power depends upon the axle of a big cart.",
+                "line_5": "Loses the goat with ease. No remorse.",
+                "line_6": "A goat butts against a hedge. It cannot go backward, it cannot go forward. Nothing serves to further. If one notes the difficulty, this brings good fortune."
+            },
+            "keywords": "Power, perseverance, order",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Thunder and Heaven",
+            "astrological_association": "Aries",
+            "mythological_association": "Power",
+            "affirmation": "I embody the power of perseverance and order."
+        },
+        {
+            "hexagram_number": 35,
+            "hexagram_name": "Progress",
+            "binary_sequence": "101011",
+            "judgment": "Progress. The powerful prince is honored with horses in large numbers. In a single day he is granted audience three times.",
+            "image": "The sun rises over the earth: the image of Progress. Thus the superior man himself brightens his bright virtue.",
+            "lines": {
+                "line_1": "Progressing, but turned back. Perseverance brings good fortune. If one meets with no confidence, one should remain calm. No mistake.",
+                "line_2": "Progressing, but in sorrow. Perseverance brings good fortune. Then one obtains great happiness from one's ancestress.",
+                "line_3": "All are in accord. Remorse disappears.",
+                "line_4": "Progress like a hamster. Perseverance brings danger.",
+                "line_5": "Remorse disappears. Take not gain and loss to heart. Undertakings bring good fortune. Everything serves to further.",
+                "line_6": "Making progress with the horns is permissible only for the purpose of punishing one's own city. To be conscious of danger brings good fortune. No blame. Perseverance brings humiliation."
+            },
+            "keywords": "Progress, success, perseverance",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Sun and Earth",
+            "astrological_association": "Leo",
+            "mythological_association": "Progress",
+            "affirmation": "I progress with success and perseverance."
+        }
+    ]
+}

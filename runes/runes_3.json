@@ -1,0 +1,54 @@
+{
+    "runes": [
+        {
+            "rune_name": "Isa",
+            "symbol": "ᛁ",
+            "meaning": "Stillness, ice, challenges",
+            "keywords": "Stillness, ice, challenges",
+            "mythological_association": "Ice Giants",
+            "astrological_association": "Pisces",
+            "element": "Water",
+            "affirmation": "I find strength in stillness."
+        },
+        {
+            "rune_name": "Jera",
+            "symbol": "ᛃ",
+            "meaning": "Harvest, reward, cycles",
+            "keywords": "Harvest, reward, cycles",
+            "mythological_association": "Harvest gods",
+            "astrological_association": "Virgo",
+            "element": "Earth",
+            "affirmation": "I reap the rewards of my efforts."
+        },
+        {
+            "rune_name": "Eihwaz",
+            "symbol": "ᛇ",
+            "meaning": "Defense, strength, reliability",
+            "keywords": "Defense, strength, reliability",
+            "mythological_association": "Yggdrasil",
+            "astrological_association": "Scorpio",
+            "element": "Earth",
+            "affirmation": "I am strong and reliable."
+        },
+        {
+            "rune_name": "Perthro",
+            "symbol": "ᛈ",
+            "meaning": "Mystery, fate, secrets",
+            "keywords": "Mystery, fate, secrets",
+            "mythological_association": "Norns",
+            "astrological_association": "Capricorn",
+            "element": "Water",
+            "affirmation": "I embrace the mysteries of life."
+        },
+        {
+            "rune_name": "Algiz",
+            "symbol": "ᛉ",
+            "meaning": "Protection, shield, defense",
+            "keywords": "Protection, shield, defense",
+            "mythological_association": "Heimdall",
+            "astrological_association": "Aquarius",
+            "element": "Air",
+            "affirmation": "I am protected and safe."
+        }
+    ]
+}

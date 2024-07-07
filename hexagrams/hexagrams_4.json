@@ -1,0 +1,114 @@
+{
+    "hexagrams": [
+        {
+            "hexagram_number": 16,
+            "hexagram_name": "Enthusiasm",
+            "binary_sequence": "100011",
+            "judgment": "Enthusiasm. It furthers one to install helpers and to set armies marching.",
+            "image": "Thunder comes resounding out of the earth: the image of Enthusiasm. Thus the ancient kings made music in order to honor merit, and offered it with splendor to the Supreme Deity, inviting their ancestors to be present.",
+            "lines": {
+                "line_1": "Enthusiasm that expresses itself brings misfortune.",
+                "line_2": "Firm as a rock. Not a whole day. Perseverance brings good fortune.",
+                "line_3": "Enthusiasm that looks upward creates remorse. Hesitation brings remorse.",
+                "line_4": "The source of enthusiasm. He achieves great things. Doubt not. You gather friends around you as a hair clasp gathers the hair.",
+                "line_5": "Persistently ill, and still does not die.",
+                "line_6": "Deluded enthusiasm. But if after completion one changes, there is no blame."
+            },
+            "keywords": "Enthusiasm, energy, initiative",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Thunder",
+            "astrological_association": "Aries",
+            "mythological_association": "Energy",
+            "affirmation": "I embody enthusiasm and initiative."
+        },
+        {
+            "hexagram_number": 17,
+            "hexagram_name": "Following",
+            "binary_sequence": "011100",
+            "judgment": "Following has supreme success. Perseverance furthers. No blame.",
+            "image": "Thunder in the middle of the lake: the image of Following. Thus the superior man at nightfall goes indoors for rest and recuperation.",
+            "lines": {
+                "line_1": "The standard is changing. Perseverance brings good fortune. To go out of the door in company produces deeds.",
+                "line_2": "If one clings to the little boy, one loses the strong man.",
+                "line_3": "If one clings to the strong man, one loses the little boy. Through following one finds what one seeks. It furthers one to remain persevering.",
+                "line_4": "Following creates success. Perseverance brings misfortune. To go one's way with sincerity brings clarity. How could there be blame in this?",
+                "line_5": "Sincere in the good. Good fortune.",
+                "line_6": "He meets with firm allegiance and is still further bound. The king introduces him to the Western Mountain."
+            },
+            "keywords": "Following, perseverance, adaptability",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Lake and Thunder",
+            "astrological_association": "Gemini",
+            "mythological_association": "Adaptability",
+            "affirmation": "I follow with perseverance and adaptability."
+        },
+        {
+            "hexagram_number": 18,
+            "hexagram_name": "Work on What Has Been Spoiled",
+            "binary_sequence": "010111",
+            "judgment": "Work on What Has Been Spoiled has supreme success. It furthers one to cross the great water. Before the starting point, three days. After the starting point, three days.",
+            "image": "The wind blows low on the mountain: the image of Decay. Thus the superior man stirs up the people and strengthens their spirit.",
+            "lines": {
+                "line_1": "Setting right what has been spoiled by the father. If there is a son, no blame rests upon the departed father. Danger. In the end, good fortune.",
+                "line_2": "Setting right what has been spoiled by the mother. One must not be too persevering.",
+                "line_3": "Setting right what has been spoiled by the father. There will be little remorse. No great blame.",
+                "line_4": "Tolerating what has been spoiled by the father. In continuing one sees humiliation.",
+                "line_5": "Setting right what has been spoiled by the father. One meets with praise.",
+                "line_6": "He does not serve kings and princes, sets himself higher goals."
+            },
+            "keywords": "Restoration, perseverance, initiative",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Wind",
+            "astrological_association": "Scorpio",
+            "mythological_association": "Renewal",
+            "affirmation": "I restore and renew with perseverance."
+        },
+        {
+            "hexagram_number": 19,
+            "hexagram_name": "Approach",
+            "binary_sequence": "011001",
+            "judgment": "Approach has supreme success. Perseverance furthers. When the eighth month comes, there will be misfortune.",
+            "image": "The earth above the lake: the image of Approach. Thus the superior man is inexhaustible in his will to teach, and without limits in his tolerance and protection of the people.",
+            "lines": {
+                "line_1": "Joint approach. Perseverance brings good fortune.",
+                "line_2": "Joint approach. Good fortune. Everything furthers.",
+                "line_3": "Comfortable approach. Nothing that would further. If one is induced to grieve over it, one becomes free of blame.",
+                "line_4": "Complete approach. No blame.",
+                "line_5": "Wise approach. This is right for a great prince. Good fortune.",
+                "line_6": "Approach with good intentions. Supreme good fortune. No blame."
+            },
+            "keywords": "Approach, success, perseverance",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Earth and Lake",
+            "astrological_association": "Libra",
+            "mythological_association": "Approach",
+            "affirmation": "I approach with success and perseverance."
+        },
+        {
+            "hexagram_number": 20,
+            "hexagram_name": "Contemplation",
+            "binary_sequence": "001110",
+            "judgment": "Contemplation. The ablution has been made, but not yet the offering. Full of trust they look up to him.",
+            "image": "The wind blows over the earth: the image of Contemplation. Thus the kings of old visited the regions of the world, contemplated the people, and gave them instruction.",
+            "lines": {
+                "line_1": "Boylike contemplation. For an inferior man, no blame. For a superior man, humiliation.",
+                "line_2": "Contemplation through the crack of the door. Furthering for the perseverance of a woman.",
+                "line_3": "Contemplation of my life decides the choice between advance and retreat.",
+                "line_4": "Contemplation of the light of the kingdom. It furthers one to exert influence as the guest of a king.",
+                "line_5": "Contemplation of my life. The superior man is without blame.",
+                "line_6": "Contemplation of his life. The superior man is without blame."
+            },
+            "keywords": "Contemplation, reflection, insight",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Wind",
+            "astrological_association": "Virgo",
+            "mythological_association": "Vision",
+            "affirmation": "I contemplate with reflection and insight."
+        }
+    ]
+}

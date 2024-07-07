@@ -1,0 +1,114 @@
+{
+    "hexagrams": [
+        {
+            "hexagram_number": 21,
+            "hexagram_name": "Biting Through",
+            "binary_sequence": "100101",
+            "judgment": "Biting Through has success. It is favorable to let justice be administered.",
+            "image": "Thunder and lightning: the image of Biting Through. Thus the kings of former times made firm the laws through clearly defined penalties.",
+            "lines": {
+                "line_1": "His feet are fastened in the stocks, so that his toes disappear. No blame.",
+                "line_2": "Bites through tender meat, so that his nose disappears. No blame.",
+                "line_3": "Bites on old dried meat and strikes on something poisonous. Slight humiliation. No blame.",
+                "line_4": "Bites on dried gristly meat. Receives metal arrows. It furthers one to be mindful of difficulties and to be persevering. Good fortune.",
+                "line_5": "Bites on dried lean meat. Receives yellow gold. Perseveringly aware of danger. No blame.",
+                "line_6": "His neck is fastened in the wooden cangue, so that his ears disappear. Misfortune."
+            },
+            "keywords": "Justice, firmness, perseverance",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Thunder and Lightning",
+            "astrological_association": "Sagittarius",
+            "mythological_association": "Justice",
+            "affirmation": "I administer justice with firmness and perseverance."
+        },
+        {
+            "hexagram_number": 22,
+            "hexagram_name": "Grace",
+            "binary_sequence": "101011",
+            "judgment": "Grace has success. In small matters, it is favorable to undertake something.",
+            "image": "Fire at the foot of the mountain: the image of Grace. Thus does the superior man proceed when clearing up current affairs. But he dare not decide controversial issues in this way.",
+            "lines": {
+                "line_1": "He lends grace to his toes, leaves the carriage, and walks.",
+                "line_2": "Lends grace to the beard on his chin.",
+                "line_3": "Graceful and moist. Constant perseverance brings good fortune.",
+                "line_4": "Grace or simplicity? A white horse comes as if on wings. He is not a robber; he will woo at the right time.",
+                "line_5": "Grace in the hills and gardens. The roll of silk is meager and small. Humiliation, but in the end, good fortune.",
+                "line_6": "Simple grace. No blame."
+            },
+            "keywords": "Grace, beauty, simplicity",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Fire and Mountain",
+            "astrological_association": "Libra",
+            "mythological_association": "Beauty",
+            "affirmation": "I embrace grace and simplicity."
+        },
+        {
+            "hexagram_number": 23,
+            "hexagram_name": "Splitting Apart",
+            "binary_sequence": "000100",
+            "judgment": "Splitting Apart. It does not further one to go anywhere.",
+            "image": "The mountain rests on the earth: the image of Splitting Apart. Thus those above can ensure their position only by giving generously to those below.",
+            "lines": {
+                "line_1": "The leg of the bed is split. Those who persevere are destroyed. Misfortune.",
+                "line_2": "The bed is split at the edge. Those who persevere are destroyed. Misfortune.",
+                "line_3": "He splits with them. No blame.",
+                "line_4": "The bed is split up to the skin. Misfortune.",
+                "line_5": "A shoal of fishes. Favor comes through the court ladies. Everything acts to further.",
+                "line_6": "There is a large fruit still uneaten. The superior man receives a carriage. The house of the inferior man is split apart."
+            },
+            "keywords": "Destruction, separation, generosity",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Mountain and Earth",
+            "astrological_association": "Capricorn",
+            "mythological_association": "Destruction",
+            "affirmation": "I understand the importance of separation and generosity."
+        },
+        {
+            "hexagram_number": 24,
+            "hexagram_name": "Return",
+            "binary_sequence": "111000",
+            "judgment": "Return. Success. Going out and coming in without error. Friends come without blame. To and fro goes the way. On the seventh day comes return. It furthers one to have somewhere to go.",
+            "image": "Thunder within the earth: the image of Return. Thus the kings of antiquity closed the passes at the time of the solstice. Merchants and strangers did not go about, and the ruler did not travel through the provinces.",
+            "lines": {
+                "line_1": "Return from a short distance. No need for remorse. Great good fortune.",
+                "line_2": "Quiet return. Good fortune.",
+                "line_3": "Repeated return. Danger. No blame.",
+                "line_4": "Walking in the midst of others, one returns alone.",
+                "line_5": "Noblehearted return. No remorse.",
+                "line_6": "Missing the return. Misfortune. Misfortune from within and without. If armies are set marching in this way, one will suffer a great defeat, thereby the ruler’s country will suffer loss. For ten years it will not be possible to attack again."
+            },
+            "keywords": "Return, renewal, success",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Thunder and Earth",
+            "astrological_association": "Aquarius",
+            "mythological_association": "Renewal",
+            "affirmation": "I embrace renewal and success."
+        },
+        {
+            "hexagram_number": 25,
+            "hexagram_name": "Innocence",
+            "binary_sequence": "111001",
+            "judgment": "Innocence. Supreme success. Perseverance furthers. If someone is not as he should be, he has misfortune, and it does not further him to undertake anything.",
+            "image": "Under heaven thunder rolls: all things attain the natural state of innocence. Thus the kings of old, rich in virtue, and in harmony with the time, fostered and nourished all beings.",
+            "lines": {
+                "line_1": "Innocent behavior brings good fortune.",
+                "line_2": "If one does not count on the harvest while plowing, nor on the use of the ground while clearing it, it furthers one to undertake something.",
+                "line_3": "Undeserved misfortune. The cow that was tethered by someone is the wanderer’s gain, the citizen’s loss.",
+                "line_4": "He who can be persevering remains without blame.",
+                "line_5": "Use no medicine in an illness incurred through no fault of your own. It will pass of itself.",
+                "line_6": "Innocent action brings misfortune. Nothing furthers."
+            },
+            "keywords": "Innocence, virtue, perseverance",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Thunder and Heaven",
+            "astrological_association": "Pisces",
+            "mythological_association": "Innocence",
+            "affirmation": "I embody innocence and virtue."
+        }
+    ]
+}

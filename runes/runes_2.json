@@ -1,0 +1,54 @@
+{
+    "runes": [
+        {
+            "rune_name": "Kenaz",
+            "symbol": "ᚲ",
+            "meaning": "Knowledge, insight, creativity",
+            "keywords": "Knowledge, insight, creativity",
+            "mythological_association": "Loki",
+            "astrological_association": "Leo",
+            "element": "Fire",
+            "affirmation": "I embrace knowledge and creativity."
+        },
+        {
+            "rune_name": "Gebo",
+            "symbol": "ᚷ",
+            "meaning": "Gift, partnership, generosity",
+            "keywords": "Gift, partnership, generosity",
+            "mythological_association": "Gefion",
+            "astrological_association": "Libra",
+            "element": "Air",
+            "affirmation": "I give and receive generously."
+        },
+        {
+            "rune_name": "Wunjo",
+            "symbol": "ᚹ",
+            "meaning": "Joy, pleasure, harmony",
+            "keywords": "Joy, pleasure, harmony",
+            "mythological_association": "Freyr",
+            "astrological_association": "Pisces",
+            "element": "Water",
+            "affirmation": "I find joy and harmony in all things."
+        },
+        {
+            "rune_name": "Hagalaz",
+            "symbol": "ᚺ",
+            "meaning": "Disruption, change, chaos",
+            "keywords": "Disruption, change, chaos",
+            "mythological_association": "Hel",
+            "astrological_association": "Aquarius",
+            "element": "Air",
+            "affirmation": "I embrace change and grow from it."
+        },
+        {
+            "rune_name": "Nauthiz",
+            "symbol": "ᚾ",
+            "meaning": "Necessity, constraint, need",
+            "keywords": "Necessity, constraint, need",
+            "mythological_association": "Norns",
+            "astrological_association": "Capricorn",
+            "element": "Fire",
+            "affirmation": "I overcome constraints and fulfill my needs."
+        }
+    ]
+}

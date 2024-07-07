@@ -1,0 +1,114 @@
+{
+    "hexagrams": [
+        {
+            "hexagram_number": 6,
+            "hexagram_name": "Conflict",
+            "binary_sequence": "010110",
+            "judgment": "Conflict. You are sincere and are being obstructed. A cautious halt halfway brings good fortune. Going through to the end brings misfortune.",
+            "image": "Heaven and water go their opposite ways: the image of Conflict. Thus in all his transactions the superior man carefully considers the beginning.",
+            "lines": {
+                "line_1": "If one does not perpetuate the affair, there is a little gossip. In the end, good fortune comes.",
+                "line_2": "One cannot engage in conflict; one returns home, gives way. The people of his town, three hundred households, remain free of guilt.",
+                "line_3": "To nourish oneself on ancient virtue induces perseverance. Danger. In the end, good fortune comes. If by chance you are in the service of a king, seek not works.",
+                "line_4": "One cannot engage in conflict. One turns back and submits to fate, changes one’s attitude, and finds peace in perseverance. Good fortune.",
+                "line_5": "To contend before him brings supreme good fortune.",
+                "line_6": "Even if by chance a leather belt is bestowed on one, by the end of a morning it will have been snatched away three times."
+            },
+            "keywords": "Conflict, caution, perseverance",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Heaven",
+            "astrological_association": "Libra",
+            "mythological_association": "Water",
+            "affirmation": "I navigate conflict with caution and perseverance."
+        },
+        {
+            "hexagram_number": 7,
+            "hexagram_name": "The Army",
+            "binary_sequence": "000010",
+            "judgment": "The Army. The army needs perseverance and a strong man. Good fortune without blame.",
+            "image": "In the middle of the earth is water: the image of The Army. Thus the superior man increases his masses by generosity toward the people.",
+            "lines": {
+                "line_1": "An army must set forth in proper order. If the order is not good, misfortune threatens.",
+                "line_2": "In the midst of the army. Good fortune. No blame. The king bestows a triple decoration.",
+                "line_3": "Perchance the army carries corpses in the wagon. Misfortune.",
+                "line_4": "The army retreats. No blame.",
+                "line_5": "There is game in the field. It furthers one to catch it. Without blame. Let the eldest lead the army. The younger transports corpses; then perseverance brings misfortune.",
+                "line_6": "The great prince issues commands, founds states, vests families with fiefs. Inferior people should not be employed."
+            },
+            "keywords": "Perseverance, leadership, organization",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Earth",
+            "astrological_association": "Scorpio",
+            "mythological_association": "Water",
+            "affirmation": "I lead with perseverance and organization."
+        },
+        {
+            "hexagram_number": 8,
+            "hexagram_name": "Holding Together",
+            "binary_sequence": "010010",
+            "judgment": "Holding Together brings good fortune. Inquire of the oracle once again whether you possess sublimity, constancy, and perseverance; then there is no blame. Those who are uncertain gradually join. Whoever comes too late meets with misfortune.",
+            "image": "On the earth is water: the image of Holding Together. Thus the kings of antiquity bestowing rich fiefs on large numbers of vassals collected their followers around them.",
+            "lines": {
+                "line_1": "Hold to him in truth and loyalty; this is without blame. Truth, like a full earthen bowl: thus in the end good fortune comes from without.",
+                "line_2": "Hold to him inwardly. Perseverance brings good fortune.",
+                "line_3": "You hold together with the wrong people.",
+                "line_4": "Hold to him outwardly also. Perseverance brings good fortune.",
+                "line_5": "Manifestation of holding together. In the hunt the king uses beaters on three sides only and foregoes game that runs off in front. The citizens need no warning. Good fortune.",
+                "line_6": "He finds no head for holding together. Misfortune."
+            },
+            "keywords": "Unity, loyalty, perseverance",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Earth",
+            "astrological_association": "Sagittarius",
+            "mythological_association": "Water",
+            "affirmation": "I foster unity and loyalty."
+        },
+        {
+            "hexagram_number": 9,
+            "hexagram_name": "The Taming Power of the Small",
+            "binary_sequence": "111010",
+            "judgment": "The Taming Power of the Small has success. Dense clouds, no rain from our western region.",
+            "image": "The wind drives across heaven: the image of The Taming Power of the Small. Thus the superior man refines the outward aspect of his nature.",
+            "lines": {
+                "line_1": "Return to the way. How could there be blame in this? Good fortune.",
+                "line_2": "He allows himself to be drawn into returning. Good fortune.",
+                "line_3": "The spokes burst out of the wagon wheels. Man and wife roll their eyes.",
+                "line_4": "If you are sincere, blood vanishes and fear gives way. No blame.",
+                "line_5": "If you are sincere and loyally attached, you are rich in your neighbor.",
+                "line_6": "The rain comes, there is rest. This is due to the lasting effect of character. Perseverance brings the woman into danger. The moon is nearly full. If the superior man persists, misfortune comes."
+            },
+            "keywords": "Restraint, perseverance, subtlety",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Wind",
+            "astrological_association": "Capricorn",
+            "mythological_association": "Heaven",
+            "affirmation": "I embrace subtlety and perseverance."
+        },
+        {
+            "hexagram_number": 10,
+            "hexagram_name": "Treading",
+            "binary_sequence": "010111",
+            "judgment": "Treading. Treading upon the tail of the tiger. It does not bite the man. Success.",
+            "image": "Heaven above, the lake below: the image of Treading. Thus the superior man discriminates between high and low, and thereby fortifies the thinking of the people.",
+            "lines": {
+                "line_1": "Simple conduct. Progress without blame.",
+                "line_2": "Treading a smooth, level course. The perseverance of a dark man brings good fortune.",
+                "line_3": "A one-eyed man is able to see, a lame man is able to tread. He treads on the tail of the tiger. The tiger bites the man. Misfortune. Thus a warrior acts on behalf of his great prince.",
+                "line_4": "He treads on the tail of the tiger. Caution and circumspection lead ultimately to good fortune.",
+                "line_5": "Resolute conduct. Perseverance with awareness of danger.",
+                "line_6": "Look to your conduct and weigh the favorable signs. When everything is fulfilled, supreme good fortune comes."
+            },
+            "keywords": "Caution, awareness, progress",
+            "changing_lines": "",
+            "commentary": "",
+            "element": "Heaven",
+            "astrological_association": "Aquarius",
+            "mythological_association": "Tiger",
+            "affirmation": "I progress with caution and awareness."
+        }
+    ]
+}
